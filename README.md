@@ -1,4 +1,4 @@
-# Lab7
+# Lab7: Wide & Deep Networks
 
 * Preston Tighe
 * Arturo Laguna
